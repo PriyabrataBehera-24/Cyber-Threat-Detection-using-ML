@@ -1,7 +1,3 @@
-Here’s a **more detailed and professional `README.md`** for your project based on the uploaded notebook. It includes sections like Overview, Dataset, Tech Stack, Preprocessing, and more.
-
----
-
 # 🛡️ Cyber Threat Detection using Machine Learning
 
 This project focuses on identifying and classifying cyber security threats from structured network traffic data using a machine learning-based pipeline. It involves cleaning, encoding, transforming, and analyzing a real-world dataset before preparing it for ML model training.
